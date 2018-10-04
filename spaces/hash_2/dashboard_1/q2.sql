@@ -1,1 +1,1 @@
-select * from table1.signups
+select * from table2.signups
